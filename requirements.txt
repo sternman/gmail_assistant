@@ -1,0 +1,9 @@
+duckdb
+streamlit
+pandas
+google
+google-api-core
+google-api-python-client==1.8
+google-auth
+google-cloud
+gmail-api-wrapper
